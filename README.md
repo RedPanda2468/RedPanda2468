@@ -1,7 +1,13 @@
-<h1 align="center">Hi there, I'm Yash 👋</h1>
-
+<!-- Animated Wave Header -->
 <p align="center">
-  <em>Developer · Problem Solver · Lifelong Learner</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20Yash%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" />
+</p>
+
+<!-- Animated Typing Subtitle -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F85D7F&center=true&vCenter=true&width=435&lines=Developer+%C2%B7+Problem+Solver+%C2%B7+Lifelong+Learner;Full-Stack+Web+Developer;Competitive+Programmer" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -11,6 +17,27 @@
   <a href="https://github.com/RedPanda2468?tab=stars">
     <img src="https://img.shields.io/github/stars/RedPanda2468?style=flat&color=yellow" alt="stars" />
   </a>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/RedPanda2468/RedPanda2468/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/RedPanda2468/RedPanda2468/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/RedPanda2468/RedPanda2468/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
@@ -85,4 +112,9 @@
 
 <p align="center">
   <i>"First, solve the problem. Then, write the code." – John Johnson</i>
+</p>
+
+<!-- Animated Wave Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </p>
